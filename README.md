@@ -1,2 +1,2 @@
 # ExerciciosPython
-Resoluções dos exercicios em Python
+Resoluções dos exercicios em Python passados no SENAI.
